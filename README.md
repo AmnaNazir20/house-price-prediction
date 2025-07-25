@@ -39,7 +39,7 @@ This project uses the **California Housing Dataset** to predict house prices usi
 - Applied **log transformation** to reduce skewness in left- and right-skewed features.
 - Transformed distributions to be more **bell-shaped**, enhancing model performance.
 
-![Log Transformed Histogram](images/log_transformation_hist.png)
+![Log Transformed Histogram](log_transformation_hist.png)
 
 ---
 
@@ -53,7 +53,7 @@ This project uses the **California Housing Dataset** to predict house prices usi
 - Generated a **correlation matrix** to visualize relationships among features.
 - Selected variables that showed strong correlation with the target variable `median_house_value`.
 
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](correlation_matrix.png.png)
 
 
 ### 🧪 Train-Test Split
